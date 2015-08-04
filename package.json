@@ -1,0 +1,13 @@
+{
+  "name": "Server",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.9.0",
+    "path": "*",
+    "serve-favicon": "~2.1.3"
+  }
+}
